@@ -1,4 +1,4 @@
-# G-DFateCheck
+# G&DFateCheck
 A Simple Windows Checklist Application for Gumballs and Dungeons Fate Pillar
 
 Usage:
